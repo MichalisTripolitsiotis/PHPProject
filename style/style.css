@@ -1,0 +1,25 @@
+body {
+  background: rgb(30, 27, 87);
+  background: linear-gradient(
+    90deg,
+    rgba(30, 27, 87, 1) 0%,
+    rgba(9, 121, 97, 1) 46%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+#city {
+  color: bisque;
+  font-weight: 500;
+  font-size: 30px;
+}
+input:focus {
+  color: black !important;
+}
+.card-text {
+  font-weight: 500;
+  font-size: 20px;
+}
+.data {
+  color: wheat;
+  font-size: 20px;
+}
